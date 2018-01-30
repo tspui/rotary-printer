@@ -1,0 +1,24 @@
+---------------------------------------------------------------------------
+NCDrill File Report For: SmithBoard Rev B.PcbDoc   11/28/2014  1:42:57 AM
+---------------------------------------------------------------------------
+
+Layer Pair : Top to Bottom
+ASCII RoundHoles File : SmithBoard Rev B-RoundHoles.TXT
+ASCII SlotHoles File : SmithBoard Rev B-SlotHoles.TXT
+EIA File   : SmithBoard Rev B.DRL
+
+Tool         Hole Size           Hole Type     Hole Count Plated       Tool Travel
+---------------------------------------------------------------------------
+T1        15mil (0.381mm)          Round          264              51.52 Inch (1308.59 mm)
+T2        24mil (0.6096mm)         Round          16               5.51 Inch (139.87 mm)
+T3        36mil (0.9144mm)         Round          12               3.12 Inch (79.37 mm)
+T4        39mil (0.9906mm)         Slot           3                283.79 Inch (7208.26 mm)
+T5        40mil (1.016mm)          Round          104              19.41 Inch (492.92 mm)
+T6        79mil (2.0066mm)         Slot           3                284.53 Inch (7227.01 mm)
+T7        90mil (2.286mm)          Round          2                0.47 Inch (12.04 mm)
+T8        91mil (2.3114mm)         Round          4                1.21 Inch (30.70 mm)
+T9        130mil (3.302mm)         Round          4                12.92 Inch (328.26 mm)
+---------------------------------------------------------------------------
+Totals                                            412              662.48 Inch (16827.01 mm)
+
+Total Processing Time (hh:mm:ss) : 00:00:00
